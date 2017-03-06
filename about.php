@@ -2,7 +2,7 @@
 
 <?php include "includes/navigation.php"; ?>
 
-<div class="content-container">
+<div id="about" class="content-container">
     <div class="profile-image-container">
         <img id="profile-img" src="images/profile-image.png" alt="Image of computer code">
     </div>

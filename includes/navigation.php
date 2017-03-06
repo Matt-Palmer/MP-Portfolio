@@ -27,18 +27,18 @@
             <div class="nav-items-container">
                 <ul>
                     <li><a href="index.php" <?php classActive("index");?>>Home</a></li>
-                    <li><a href="#" <?php classActive("test");?>>Link 2</a></li>
-                    <li><a href="#" <?php classActive("something");?>>Link 3</a></li>
+                    <li><a href="portfolio.php" <?php classActive("portfolio");?>>Portfolio</a></li>
+                    <li><a href="something.php" <?php classActive("something");?>>Something</a></li>
                     <li><a href="about.php" <?php classActive("about");?>>About Me</a></li>
                 </ul>
             </div>
 
             <div class="social-nav-items-container">
                 <ul>
-                    <li><a href="#" class="active">Link 1</a></li>
-                    <li><a href="#">Link 2</a></li>
-                    <li><a href="#">Link 3</a></li>
-                    <li><a href="#">Link 4</a></li>
+                    <li><a href="#"><img src="images/facebook-logo-button.svg"></a></li>
+                    <li><a href="#"><img src="images/twitter-logo-button.svg"></a></li>
+                    <li><a href="#"><img src="images/linkedin-button.svg"></a></li>
+                    <li><a href="#"><img src="images/instagram-logo.svg"></a></li>
                 </ul>
             </div>
 
